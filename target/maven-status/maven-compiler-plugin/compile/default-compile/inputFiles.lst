@@ -6,4 +6,5 @@
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/config/JmsConfig.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
