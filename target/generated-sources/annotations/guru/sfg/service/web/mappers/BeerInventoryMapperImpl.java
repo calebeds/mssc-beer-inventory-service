@@ -1,7 +1,8 @@
-package guru.sfg.beer.inventory.service.web.mappers;
+package guru.sfg.service.web.mappers;
 
 import guru.sfg.beer.inventory.service.domain.BeerInventory;
 import guru.sfg.beer.inventory.service.domain.BeerInventory.BeerInventoryBuilder;
+import guru.sfg.beer.inventory.service.web.mappers.DateMapper;
 import guru.sfg.beer.inventory.service.web.model.BeerInventoryDto;
 import guru.sfg.beer.inventory.service.web.model.BeerInventoryDto.BeerInventoryDtoBuilder;
 import javax.annotation.Generated;
