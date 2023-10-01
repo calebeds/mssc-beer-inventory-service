@@ -2,6 +2,7 @@
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/BeerDto.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/BeerOrderDto.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/AllocateOrderResult.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/config/JmsConfig.java
@@ -10,6 +11,8 @@
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/NewInventoryListener.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/BeerEvent.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/AllocationListener.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/AllocateOrderRequest.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/NewInventoryEvent.java
