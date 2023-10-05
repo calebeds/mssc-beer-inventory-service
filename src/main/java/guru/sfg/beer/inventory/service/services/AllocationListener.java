@@ -35,7 +35,7 @@ public class AllocationListener {
             builder.allocationError(true);
         }
 
-        jmsTemplate.convertAndSend(JmsConfig.ALLOCATE_ORDER_QUEUE,
+        jmsTemplate.convertAndSend(JmsConfig.ALLOCATE_ORDER_RESPONSE_QUEUE,
                 builder.build());
     }
 }
