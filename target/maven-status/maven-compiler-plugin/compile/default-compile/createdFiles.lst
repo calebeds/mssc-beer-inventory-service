@@ -7,6 +7,8 @@ guru/sfg/beer/inventory/service/domain/BeerInventory$BeerInventoryBuilder.class
 guru/sfg/brewery/model/events/AllocateOrderResult$AllocateOrderResultBuilder.class
 guru/sfg/beer/inventory/service/services/AllocationServiceImpl.class
 guru/sfg/beer/inventory/service/domain/BaseEntity.class
+guru/sfg/beer/inventory/service/services/DeallocationListener.class
+guru/sfg/brewery/model/events/DeallocateOrderRequest.class
 guru/sfg/brewery/model/events/AllocateOrderResult.class
 guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapperImpl.class
 guru/sfg/brewery/model/events/AllocateOrderRequest.class
@@ -22,6 +24,7 @@ guru/sfg/beer/inventory/service/web/mappers/DateMapper.class
 guru/sfg/brewery/model/events/NewInventoryEvent.class
 guru/sfg/brewery/model/BeerOrderDto$BeerOrderDtoBuilder.class
 guru/sfg/brewery/model/events/AllocateOrderRequest$AllocateOrderRequestBuilder.class
+guru/sfg/brewery/model/events/DeallocateOrderRequest$DeallocateOrderRequestBuilder.class
 guru/sfg/beer/inventory/service/BeerInventoryApplication.class
 guru/sfg/beer/inventory/service/services/NewInventoryListener.class
 guru/sfg/brewery/model/events/BeerDto$BeerDtoBuilder.class
