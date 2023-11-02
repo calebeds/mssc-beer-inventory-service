@@ -16,6 +16,7 @@
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/AllocateOrderRequest.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/config/LocalDiscovery.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/DeallocateOrderRequest.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/NewInventoryEvent.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/BeerInventoryDto.java

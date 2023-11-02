@@ -14,6 +14,7 @@ guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapperImpl.class
 guru/sfg/brewery/model/events/AllocateOrderRequest.class
 guru/sfg/beer/inventory/service/services/AllocationListener.class
 guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.class
+guru/sfg/beer/inventory/service/config/LocalDiscovery.class
 guru/sfg/brewery/model/BeerOrderLineDto$BeerOrderLineDtoBuilder.class
 guru/sfg/brewery/model/BeerOrderLineDto.class
 guru/sfg/beer/inventory/service/config/JmsConfig.class
